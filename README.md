@@ -1,6 +1,6 @@
 # ZIP Code with BeautifulSoup4 in Python
 
-##Introduction
+## Introduction
 
 ZIP Code, or CEP in portuguese, is a code that helps locate a adress in a city. Recently I had to compare the zip code number with a neighboorhood in my home town (Porto alegre, Brazil).
 
